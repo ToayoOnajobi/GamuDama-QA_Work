@@ -1,4 +1,4 @@
-#Gamu-Dama QA Portfolio 
+# Gamu-Dama QA Portfolio 
 
 This repository showcases my manual QA Testinng on a video game designed for USC's CTIN-489: Intermediate Game Design and Production, 
 collaborating with Marcus Gordon. 
