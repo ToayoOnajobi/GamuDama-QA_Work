@@ -24,10 +24,10 @@ Actual Result:
 Attachments: 
 
 **Before:**
-![Bugged Lighting](screenshots/Kakugori Isles_Before.png)
+![Bugged-Lighting](screenshots/Kakugori Isles_Before.png)
 
 **After:**
-![Fixed Lighting](screenshots/Kakugori Isles_Before.png)
+![Fixed-Lighting](screenshots/Kakugori Isles_Before.png)
 
 Result: 
 - This issue affects gameplay visibility and player experience, particularly movement and enemy readablity. 
