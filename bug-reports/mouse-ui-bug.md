@@ -25,6 +25,9 @@ Actual Result:
 Attachments: 
 ![Correct-Mouse](../screenshots/Mouse-UI-Correct.png)
 
+Result: 
+- Difficulty trying to track where the mouse's location was on the screen during gameplay. 
+
 
 
 
