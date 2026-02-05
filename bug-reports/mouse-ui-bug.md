@@ -19,11 +19,11 @@ Expected Result:
 - A medium-sized pixel-drawn mouse UI 
 
 Actual Result: 
-- the platform of use's mouse UI appearing instead. 
+- The platform of use mouse UI appearing instead of the pixel-drawn mouse UI. 
 
 
 Attachments: 
-![Correct-Mouse](bug-reports/mouse-ui-bug.md)
+![Correct-Mouse](screenshots/Mouse-UI-Correct.png)
 
 
 
