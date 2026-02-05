@@ -23,7 +23,7 @@ Actual Result:
 
 
 Attachments: 
-![Correct-Mouse](screenshots/Mouse-UI-Correct.png)
+![Correct-Mouse](GamuDama-QA_Work/screenshots/Mouse-UI-Correct.png)
 
 
 
