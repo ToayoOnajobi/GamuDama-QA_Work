@@ -1,4 +1,4 @@
-# Bug ID: 
+# Bug ID: #001
 Title: Scene lighting overexposed upon beginning the level 
 
 Environment: 

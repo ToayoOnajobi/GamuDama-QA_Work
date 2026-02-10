@@ -1,4 +1,4 @@
-# Bug ID: 
+# Bug ID: #002
 Title: Mouse UI bug 
 
 Enviroment: 
