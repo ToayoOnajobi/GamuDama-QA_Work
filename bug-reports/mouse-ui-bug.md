@@ -28,7 +28,3 @@ Attachments:
 Result: 
 - Difficulty trying to track where the mouse's location was on the screen during gameplay. 
 
-
-
-
-
